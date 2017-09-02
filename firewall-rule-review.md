@@ -1,7 +1,5 @@
 
-<title>Technology Risk Management - A Technology Risk Management Guide</title>
-
-<p><strong><u>Firewall Rules Review – Best Practices</u></strong></p>
+# Firewall Rules Review – Best Practices
 <ul>
 	<li>Firewall Rule Change Control Form should be used for each firewall rule addition or modification.</li>
 	<li>Details to be captured:</li>
