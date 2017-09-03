@@ -6,7 +6,13 @@
 
 <p><h3>Continuous Security Testing in the Agile World</h3>
 
-<p> In the new world where projects are more-and-more adopting the Agile approach, or a combination of Agile and Waterfall, it is imperative that Security Testing is also embedded very deeply and from the start into the Development Methodology.
+<p> In the new world where projects are more-and-more adopting the Agile approach, or a combination of Agile and Waterfall, it is imperative that Security Testing is also embedded very deeply and from the start into the Development Methodology.  A Security Tester / Expert / Consultant / SME should be part of the core development team from the start of the project.  The Security Tester should have the below responsibilities:
+
+<ol>
+	<li> Ensure that the<a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project" target="_blank" rel="noopener">OWASP Application Security Verification Standards (ASVS)</a> and <a href="https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide" target="_blank" rel="noopener">Secure Coding Practices (SCP)</a> are followed in each module being developed.</li>
+	<li> Carry out Secure Code Reviews (Automated and Human) and Security Testing for each module to ensure the above.</li>
+	<li> Drive Vulnerability Scanning (using tools such as Nexpose, Nessus, etc) and Remediation on the Platforms (Dev, UAT, SIT and Production) being used, from the start itself.  This will make sure that the application can works well on a hardened platform.
+</ol>
 
 
 <p><u>References:</u>
@@ -14,4 +20,6 @@
 <p><a href="https://www.thoughtworks.com/insights/blog/application-security-agile-projects" target="_blank" rel="noopener">https://www.thoughtworks.com/insights/blog/application-security-agile-projects</a>
 
 <p><a href="https://blog.udemy.com/agile-vs-waterfall/" target="_blank" rel="noopener">https://blog.udemy.com/agile-vs-waterfall/</a>
+
+<p><a href="https://lists.owasp.org/pipermail/owasp-community/2014-December/000472.html" target="_blank" rel="noopener">https://lists.owasp.org/pipermail/owasp-community/2014-December/000472.html</a>
 
