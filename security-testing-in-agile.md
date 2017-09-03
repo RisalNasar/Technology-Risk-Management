@@ -8,12 +8,12 @@
 
 <p><h3>Continuous Security Testing in the Agile World</h3>
 
-<p> In the new world where projects are more-and-more adopting the Agile approach, or a combination of Agile and Waterfall, it is imperative that Security Testing is also embedded very deeply and from the start into the Development Methodology.  A Security Tester / Expert / Consultant / SME should be part of the core development team from the start of the project.  The Security Tester should have the below responsibilities:
+<p> In the new world where projects are more-and-more adopting the Agile approach, or a combination of Agile and Waterfall, it is imperative that Security Testing is also embedded very deeply and from the start into the Development Methodology.  A Security Tester / Expert / Consultant / SME should be part of the core project team from the start of the project.  The Security Tester should carry out the below responsibilities:
 
 <ul>
 	<li> Ensure that the <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project" target="_blank" rel="noopener">OWASP Application Security Verification Standards (ASVS)</a> and <a href="https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide" target="_blank" rel="noopener">Secure Coding Practices (SCP)</a> are followed in each module being developed.</li>
 	<li> Carry out Secure Code Reviews (Automated and Human) and Security Testing for each module to ensure the above.</li>
-	<li> Drive Vulnerability Scanning (using tools such as Nexpose, Nessus, etc) and Remediation on the Platforms (Dev, UAT, SIT and Production) being used, from the start itself.  This will make sure that the application can works well on a hardened platform.
+	<li> Drive Vulnerability Scanning (using tools such as Nexpose, Nessus, etc) and Remediation on the Platforms (Dev, UAT, SIT and Production) being used, from the start.  This will make sure that the application can works well on a hardened platform.
 	<li> Facilitate Penetration Testing by an External Service Provider, once the Product is ready for Major Release.
 </ul>
 
@@ -23,12 +23,10 @@
 
 <p>There is no clear answer to this question.  But certain best-put suggestions would be:
 <ul>
-	<li> Perform External Pen Test, atleast once a year. Regulations, such as the MAS TRMG (Technology Risk Management Guidelines), recommends this.</li>
-	<li> The Security Tester, on a Subjective basis, should suggest an External Pen Test, following a change, if there were any <i>Significant-Impact-Changes</i> to the Application, especially on the below areas:</li>
+	<li> Perform External Pen Test, atleast once a year. Regulations, such as the MAS TRMG (Technology Risk Management Guidelines), requires this.</li>
+	<li> The Security Tester, on a Subjective basis, should suggest an External Pen Test, following a change, if there are any <i>Significant-Impact-Changes</i> to the Application, especially surrounding the below areas:</li>
 	<ul>
-		<li> Authentication and Password Management</li>
-		<li> Authorization and Access Management </li>
-		<li> Session Management</li>
+		<li> Access Control (Authentication, Password Management, Authorization, Session Management)</li>
 		<li> Sensitive Information Management</li>
 		<li> Input and Output Data Validations</li>
 	</ul>
