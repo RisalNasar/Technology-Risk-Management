@@ -5,5 +5,6 @@
 <p>The cost of change increases exponentially within a project timeline.
 
 
-
+<p> References:
+<p><a href="https://www.thoughtworks.com/insights/blog/application-security-agile-projects">https://www.thoughtworks.com/insights/blog/application-security-agile-projects</a>
 
