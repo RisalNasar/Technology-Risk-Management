@@ -2,7 +2,7 @@
 
 ![password-policy](https://user-images.githubusercontent.com/15157883/30431729-22790fe0-9992-11e7-84ad-056224875090.jpg)
 
-<p>The key control is to use a longer password, split in half between two teams, and record it into the team’s Password Manager Vault.  The difference in strength between the two use-cases is shown by the below Search Space Calculator, provided by  <p><u><a href="https://www.grc.com/haystack.htm" target="_blank" rel="noopener">https://www.grc.com/haystack.htm</a></u></p>
+<p>The key control is to use a longer password, split in half between two teams, and record it into the team’s Password Manager Vault.  The difference in strength between the two use-cases is shown by the below Search Space Calculator, provided by <u><a href="https://www.grc.com/haystack.htm" target="_blank" rel="noopener">https://www.grc.com/haystack.htm</a></u>
 
 ![haystack-1](https://user-images.githubusercontent.com/15157883/30432133-51ef740c-9993-11e7-9fdc-30b9975ee587.jpg)
 
