@@ -28,3 +28,51 @@ For a full feature list, please see: <a href="http://keepass.info/features.html"
 <p><a href="http://keepass.info/download.html">http://keepass.info/download.html</a>
 
 <p> Download the <b>Portable Professional Edition</b> of KeyPass.  After downloading the zip file, please unpack to a location of your preference.
+
+<h2>Creation of New Database</h2>
+
+<p>Open File -> New.
+
+![create](https://user-images.githubusercontent.com/15157883/30432761-24df9a76-9995-11e7-832f-81803edb3a02.jpg)
+
+<p>Choose Folder Location where the new database should be stored.  Provide a name for the database and click  ‘Save’.
+
+![choose folder](https://user-images.githubusercontent.com/15157883/30432802-4155f66e-9995-11e7-81ea-0f5c88269859.jpg)
+
+<p>You may either create a Password Database for Personal Use or for Shared Use.  Below are the recommended authentication controls for each use case, respectively.
+
+<ul>
+	<li>For Personal Password Safe creation: </li>
+</ul>
+
+<p>Please enter a Master Password and select on ‘Windows user account’ option.  This ensures that only you, as the current Windows User, along with the pre-set master password can open the database.  Click ‘OK’.  Follow next steps.
+
+![composite master key](https://user-images.githubusercontent.com/15157883/30432879-898aeb60-9995-11e7-9c35-2a9bc09c8f75.jpg)
+
+<p>Enter Database Details and click ‘OK’.
+
+![test-personal-db](https://user-images.githubusercontent.com/15157883/30432918-ae1aca9a-9995-11e7-934e-5a4637cee889.jpg)
+
+<ul>
+	<li>For a Shared Password Safe Creation (example – to be shared between team members):</li>
+</ul>
+
+<p>Create a Master password and a Key file.  (Do not tick on ‘Windows user account’ option).  Tick on ‘Key file / provider’ option and click ‘Create’.  
+
+![composite master key](https://user-images.githubusercontent.com/15157883/30432960-d0b6e246-9995-11e7-9ec0-d74174f00aa1.jpg)
+
+<p>Locate folder where database should be stored.  Give a name to the database.  Click ‘Save’.
+
+![locate folder](https://user-images.githubusercontent.com/15157883/30433005-edb7e9e4-9995-11e7-8f0c-8ef460cc6acd.jpg)
+
+
+<p> In order to generate randomness to be used for the underlying encryption, move your mouse randomly in the shown area until 256 bits are generated.  Also, feed in random keyboard input to the text area.
+
+![randomness](https://user-images.githubusercontent.com/15157883/30433058-0fb8aee8-9996-11e7-9521-901b747b2c15.jpg)
+
+
+
+
+
+
+
