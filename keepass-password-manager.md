@@ -70,9 +70,36 @@ For a full feature list, please see: <a href="http://keepass.info/features.html"
 
 ![randomness](https://user-images.githubusercontent.com/15157883/30433058-0fb8aee8-9996-11e7-9521-901b747b2c15.jpg)
 
+<p>Once the Key file is generated, and master password is entered, click ‘OK’.  
 
+![untitled](https://user-images.githubusercontent.com/15157883/30433358-da65847c-9996-11e7-9f6b-4f27c13874f7.jpg)
 
+<p>Enter Database Details and click ‘OK’.
 
+![untitled](https://user-images.githubusercontent.com/15157883/30433385-eda9e1ea-9996-11e7-8b37-244356c5dd60.jpg)
 
+<p>The Key file should be distributed to only those members who need to access shared database.  They should keep the Key file in their local drive and point to it locally (Even though the database is shared and kept in a ‘shared’ drive, the Key file, should be in a ‘local drive).
+
+<p>When a member of the team who had access to the database leaves, either the Key file should be regenerated and distributed; or the master password should be changed; or both.
+
+<h2>Password Generator Configurations</h2>
+
+<p>Below screenshot shows sample credential entries.
+
+![untitled](https://user-images.githubusercontent.com/15157883/30433424-01f0fe0e-9997-11e7-9f36-1f9900d5e6e9.jpg)
+
+<p>Choose a credential entry by double clicking it.  Click on the ‘Key Configuration’ and select ‘Open Password Generator’.
+
+![untitled](https://user-images.githubusercontent.com/15157883/30433455-16e223f6-9997-11e7-8dee-439dad88d0f7.jpg)
+
+<p>Configure the Password Generation Settings by changing the ‘(Custom)’ profile.
+
+<p>Click on: [1] Upper-Case; [2] Lower-case; [3] Digits; [4] Specials; and select the length of the password as 20 characters.  Click ‘OK’.
+
+![untitled](https://user-images.githubusercontent.com/15157883/30433505-34bd1264-9997-11e7-9b8c-b21f558e0ec2.jpg)
+ 
+<p>We can see that a password with the selected complexity and a high quality of entropy is generated.
+ 
+![untitled](https://user-images.githubusercontent.com/15157883/30433548-50259224-9997-11e7-8a54-e41ed21b357a.jpg)
 
 
