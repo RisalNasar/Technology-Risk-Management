@@ -1,7 +1,7 @@
 # <h1><strong>Impact, Likelihood and Risk Rating</strong></h1>
 <p>&nbsp;</p>
 <p>The first step is to identify a security risk that needs to be rated. The risk assessor needs to gather information about the threat agent involved, the attack that will be used, the vulnerability involved, and the impact of a successful exploit on the business. There may be multiple possible groups of attackers, or even multiple possible business impacts. In general, it's best to err on the side of caution by using the worst-case option, as that will result in the highest overall risk.</p>
-<h2><strong>Likelihood RATING</strong></h2>
+<h2><strong>Likelihood Rating</strong></h2>
 <p>&nbsp;</p>
 <p>There are a number of factors that can help determine the likelihood. The first set of factors are related to the threat agent involved. The goal is to estimate the likelihood of a successful attack from a group of possible attackers. Note that there may be multiple threat agents that can exploit a particular vulnerability, so it's usually best to use the worst-case scenario. For example, an insider may be a much more likely attacker than an anonymous outsider, but it depends on a number of factors.</p>
 <p><br />
@@ -30,8 +30,8 @@
 <p>How likely is an exploit to be detected? Active detection in application (1), logged and reviewed (3), logged without review (8), not logged (9)</p>
 <p>The overall Likelihood rating could be determined by taking the average of all factors.  Based on the average score, you can map it to a single likelihood rating by using the below table:</p>
 <p><img class="alignnone" src="https://farm2.staticflickr.com/1577/24879957666_3e3921a331_o.png" alt="Likelihood_Rating" width="480" height="154" /></p>
-<p><script src="//embedr.flickr.com/assets/client-code.js" async="" charset="utf-8"></script></p>
-<h2>IMPACT RATING</h2>
+
+<h2>Impact Rating</h2>
 <p>&nbsp;</p>
 <p>The business impact requires a deep understanding of what is important to the company running the application. The business risk is what justifies investment in fixing security problems.</p>
 <p><strong>Financial Damage</strong></p>
@@ -63,7 +63,19 @@
 	<li><strong>Rare</strong> - Major Tsunami</li>
 </ul>
 <p>An excel guide to help arrive at the likelihood rating and optionally, the impact rating is available at: <a href="https://github.com/GreenDiary/risk_assessment_best_practices/blob/master/OWASP_Risk_Rating_Methedology_v0.02.xlsx" target="_blank" rel="noopener">https://github.com/GreenDiary/risk_assessment_best_practices/blob/master/OWASP_Risk_Rating_Methedology_v0.02.xlsx </a></p>
-<p><span style="text-decoration: underline;">References:</span></p>
+
+<h2>Inherent vs Residual Risk</h2>
+
+<p><b>Inherent Risk</b>, also called Initial Risk is the Current Risk taking into consideration, the current controls in place.
+
+<p><b>Residual Risk</b>, is the Future Risk after implementing any Risk Action Items.
+
+
+
+
+
+<h2>References:</h2>
+
 <dl>
 <dd>
 <p><a href="https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology" target="_blank" rel="noopener">https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology </a></p>
