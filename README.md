@@ -13,6 +13,14 @@
 
 [End User Development Management](Concepts_Definitions/end-user-developments-eud.md)
 
+[Privacy vs Secrecy](Concepts_Definitions/privacy-vs-secrecy.md)
+
+[Virtual Private Network (VPN)](Concepts_Definitions/virtual-private-network.md)
+
+[Three Lines of Defence](Concepts_Definitions/three-lines-of-defenses.md)
+
+[Responsibility Assignment Matrix (RACI)](Concepts_Definitions/responsibility-assignment-matrix-racci.md)
+
 
 ## Access Control
 
@@ -24,9 +32,17 @@
 
 [Personal Honeypots](Access_Control/easy-personal-honeypots.md)
 
+[Personal Password Management](Access_Control/personal-password-management.md)
+
 [KeePass Password Manager](Access_Control/keepass-password-manager.md)
 
 [Removal of Password Complexity and Expiry Requirements by NIST](Access_Control/NIST-Password-Complexity-Expiry.docx)
+
+[Password Management at Application Servers](Access_Control/password-management-at-application-server.md)
+
+[Password Policy Differences for Human vs Application Accounts](Access_Control/password-policy-humans-vs-applications.md)
+
+
 
 ## Encryption Controls
 
@@ -50,6 +66,8 @@
 
 [Firewall Rule Review Best Practices](Firewall/firewall-rule-review.md)
 
+[Port Scanning - Firewall Best Practices](Firewall/open-port-scanning.md)
+
 ## Network Controls
 
 [Network Connection Monitoring](Network_Controls/network-connection-monitoring.md)
@@ -58,13 +76,29 @@
 
 [Logging Best Practices](Logging_Controls/logging-best-practices.md)
 
+## Vulnerability Management and Penetration Testing
+
+[SSL Vulnerability Patching](Vulnerability_Management/patch-ssl-vulnerabilities.md)
+
+[Penetration Testing Scope](Vulnerability_Management/penetration-testing-scope.md)
+
+[Personal Patch Management](Vulnerability_Management/personal-patch-management.md)
+
+[Security Testing in the Agile World](Vulnerability_Management/security-testing-in-agile.md)
+
 ## Third Party Controls
 
 [Non-Disclosure-Agreement (NDA)](Third_Party_Controls/non-disclosure-agreement.md)
 
+[Outsourcing - Control Suggestions](Third_Party_Controls/outsourcing-it-control-suggestions.md)
+
+[Vendor Selection - Best Practices](Third_Party_Controls/vendor-selection-scorecard.md)
+
 ## Physical Controls
 
 [Clean / Clear Desk Policy Checks](Physical_Controls/clear-desk-policy-checks.md)
+
+[Video Surveillance / CCTV Camera - Implementation Best Practices](Physical_Controls/video-surveillance-implementation.md)
 
 ## DoS Protection
 
@@ -78,9 +112,15 @@
 
 [ITSM Best Practices](Operational_Controls/itsm-ticketing-tool.md)
 
+[Standardized Server On-boarding Process](Operational_Controls/server-onboarding-process.md)
+
 ## Trackers and Record Keeping
 
 [Asset Tracker Best Practices](Trackers/asset-tracker.md)
+
+## Data Analytics
+
+[Data Analytics Using Excel Macro](Data_Analytics/reusable-excel-macro.md)
 
 ## Policies, Standards, Regulations and Methodologies
 
@@ -110,11 +150,15 @@
 
 [Network Configuration for using in a Virtual Lab Environment](Others/network-config-virtual-lab.md)
 
+[Organize Work](Others/organize-work.md)
 
+[Youtube Homepage Obscenity Removal](Others/youtube-home-page-obscenity.md)
 
+[Wordpress with Apache](Others/wordpress-on-apache-server.md)
 
+[Solving Windows and Linux - Side-by-Side Installation - Boot Issues](Others/solving-windows-linux-boot-issues.md)
 
-
+[Storage Disk - Data Corruption Prevention](Others/storage-disk-maintenance.md)
 
 
 
