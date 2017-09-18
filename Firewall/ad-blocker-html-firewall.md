@@ -1,4 +1,4 @@
-# <p><span style="text-decoration: underline;"><strong>Ad Blocker / HTML Firewall</strong></span></p>
+# Ad Blocker / HTML Firewall / Malicious Content Blocker in Browser
 
 <p>Typically, when a website is being loaded, it will have HTML references to third party domains for content/script to be run.  The third party content/script may be advertisements, user activity tracking cookies or even malware.  Ad Blockers or HTML Firewalls are used to prevent such Third Party Content from loading.</p>
 <p><span style="text-decoration: underline;"><strong>uBlock Origin</strong></span></p>
