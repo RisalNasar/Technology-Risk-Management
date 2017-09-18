@@ -24,6 +24,10 @@
 
 [Personal Honeypots](Access_Control/easy-personal-honeypots.md)
 
+[KeePass Password Manager](Access_Control/keepass-password-manager.md)
+
+[Removal of Password Complexity and Expiry Requirements by NIST](Access_Control/NIST-Password-Complexity-Expiry.docx)
+
 ## Encryption Controls
 
 [Cost of End-to-End Encryption](Encryption_Controls/cost-of-end-to-end-encryption.md)
@@ -45,6 +49,18 @@
 [HTML Firewall / Ad-Blocker / Malicious Content Blocker in Browser](Firewall/ad-blocker-html-firewall.md)
 
 [Firewall Rule Review Best Practices](Firewall/firewall-rule-review.md)
+
+## Network Controls
+
+[Network Connection Monitoring](Network_Controls/network-connection-monitoring.md)
+
+## Logging Controls
+
+[Logging Best Practices](Logging_Controls/logging-best-practices.md)
+
+## Third Party Controls
+
+[Non-Disclosure-Agreement (NDA)](Third_Party_Controls/non-disclosure-agreement.md)
 
 ## Physical Controls
 
@@ -90,7 +106,9 @@
 
 [Improve Internet Speed with Customized DNS Lookup Lists](Others/improve-internet-speed-customized-dns-list.md)
 
+[Mobile Device Security](Others/mobile-device-security.md)
 
+[Network Configuration for using in a Virtual Lab Environment](Others/network-config-virtual-lab.md)
 
 
 
