@@ -114,6 +114,8 @@
 
 [Standardized Server On-boarding Process](Operational_Controls/server-onboarding-process.md)
 
+[Web Server Hardening](Operational_Controls/web-server-hardening.md)
+
 ## Trackers and Record Keeping
 
 [Asset Tracker Best Practices](Trackers/asset-tracker.md)
