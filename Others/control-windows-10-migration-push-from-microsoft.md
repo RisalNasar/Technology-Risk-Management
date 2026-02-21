@@ -1,0 +1,5 @@
+# Control Windows 10 Migration Push
+<p>Microsoft is pestering its Windows users by constantly displaying the "Migrate to Windows 10" icon in the taskbar.  It is even presenting the Windows 10 migration as an Optional "upgrade" in Windows Update module.  Attempts to opt-out/hide the "Optional upgrade" is not being registered by Windows and the "upgrade" still appears.</p>
+<p>If you are one of those users who are annoyed by how hard Microsoft is trying to get you migrated from your current working OS version to Windows 10, you are not out of luck.</p>
+<p>Install the GWX Control Panel tool from <a href="http://ultimateoutsider.com/downloads/" target="_blank" rel="noopener">http://ultimateoutsider.com/downloads/</a> .  This tool allows to completely control the "Migrate to Windows 10 nag" from Microsoft and helps you regain your peace of mind.</p>
+<p><img class="alignnone" src="https://farm1.staticflickr.com/624/23343286399_bfe1e3fb5e_o.png" alt="GWX Control Panel" width="470" height="637" /></p>

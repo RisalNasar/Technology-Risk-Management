@@ -1,0 +1,22 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Local / secrets (do not commit)
+.env
+.env.*
+*.pem
+*.key
+secrets/
+*.secret
+
+# Build and temp
+*.log
+*.tmp
+.cache/
